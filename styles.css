@@ -26,7 +26,15 @@ h2{
 .vdo_play{
 	background:whitesmoke;
 	width:535px;
-	height:400px;
+	height:600px;
 	margin-left:60px;
 	margin-right:40px;
+}
+.player_one{
+	background-color:rgb(255, 255, 255);
+	width:90%;
+	height:70%;
+	display:block;background-color: rgb(255, 255, 255);
+	margin:auto;
+	padding:8px
 }
