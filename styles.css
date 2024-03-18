@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+li{
+	list-style:none;
+	margin-left: -10px;
+	padding:2px;
+	font-weight:bold;
+}
+div{
+	background:whitesmoke;
+	margin-left:10px;
+	margin-right:10px;
+	height:140px;
+	border:2px solid black;
+	border-radius:5px;
+	
+}
+h1{
+	text-align:center
+}
+h2{
+	text-align:center;
+}
+.vdo_play{
+	background:whitesmoke;
+	width:535px;
+	height:400px;
+	margin-left:60px;
+	margin-right:40px;
+}
